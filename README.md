@@ -1,1 +1,31 @@
 # Pharmacy_Management_System
+
+Members:
+- NISCHITH S (4NI22CS259)
+- ROHAN P N (4NI22CS257)
+- SUHAS B H  (4NI22CS220)
+- SUHAS B M  (4NI22CS251)
+- THANMAN Mahesh (4NI22CS236)
+- VISWAS H T  (4NI22CS248)
+
+
+## PROBLEM STATEMENT
+- In this era of growing demands of pharmaceutical and chemical products for health and medicine; every medical store, be it a small of medium sized businesses are running rampant towards efficient store management and rapid revenue computation. 
+- Instead of using the conventional style of paper-based records and documentation, electronic methods are preferred for stock maintenance, automatic updation of records while billing and reliable electronic documentation.
+- The software would reduce daily effort wage and labour numbers. Crushing numbers can now be left to the system.
+
+## OBJECTIVE
+- The aim of this project is to develop a software for the effective management of the database of a pharmaceutical store.
+- It would improve the accuracy and enhance safety and efficiency in the pharmaceutical store.
+- This system will help the pharmacist to maintain the records of the medicines, handle user and admin details, check and renew the validity of the medicines and orders placed by the customer.
+
+
+## ER DIAGRAM
+<img src="https://github.com/Nischith-SV/Pharmacy_Management_System/blob/main/dbms-4.jpeg" width=700><br>
+
+## OUTPUT
+<img src="https://github.com/Nischith-SV/Pharmacy_Management_System/blob/main/dbms-1.jpeg" width=700><br>
+<br>
+<img src="https://github.com/Nischith-SV/Pharmacy_Management_System/blob/main/dbms-2.jpeg" width=700><br>
+<br>
+<img src="https://github.com/Nischith-SV/Pharmacy_Management_System/blob/main/dbms-3.jpeg" width=700><br>
